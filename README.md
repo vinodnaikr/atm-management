@@ -1,1 +1,1 @@
-# atm-management
+This code provides a basic simulation of an ATM system.The user's role is to make selections and input data at different stages of the program, mimicking how a real ATM user would interact with an ATM machine.It primarily provides a learning tool to understand programming concepts and the logic behind ATM interactions.
